@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamtran-tech
 - 👀 I’m interested in Web Development, Game Design, and so much more
-- 🌱 I’m currently learning Web Development, specifically Back-end by using NodeJS Express, and React for Front-end. Exprerienced in other frameworks like Laravel and ASP.NET MVC 5
+- 🌱 I’m currently learning Web Development, specifically Serverside by using NodeJS Express to build API, and React for Front-end. Exprerienced in other frameworks like Laravel and ASP.NET MVC 5
 - 📫 Reach me:
     + Via linkedin: https://www.linkedin.com/in/william-tr4n/
     + Via email: williamtran6111@gmail.com
