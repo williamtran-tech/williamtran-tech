@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamtran-tech
 - 👀 I’m interested in Web Development, Application Development, and so much more
-- 🌱 I’m currently learning Web Development, specifically Serverside by using NodeJS Express to build API, and React for Front-end. Exprerienced in other frameworks like Laravel and ASP.NET MVC 5
+- 🌱 My passion lies in Web Development and Application Development, with a strong focus on backend. Currently honing my skills in Web and Mobile Development, I am proficient in designing and producing APIs development. Additionally, I have a strong foundation in mobile development, which greatly excites me as I enjoy creating software that enhances and simplifies human life. Eager to contribute to innovative projects and stay at the forefront of technology.
 - 📫 Reach me:
     + Via linkedin: https://www.linkedin.com/in/william-tr4n/
     + Via email: williamtran6111@gmail.com
